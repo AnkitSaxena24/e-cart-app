@@ -1,0 +1,32 @@
+.image-size {
+  width: 70%;
+  height: 150px;
+}
+
+.image-body {
+  height: 250px;
+  padding: 20px;
+  position: relative;
+}
+
+.close-icon {
+  position: absolute;
+  top: 5px;
+  right: 60px;
+  display: block;
+  box-shadow: 0 2px 3px #ccc;
+  cursor: pointer;
+  border-radius: 50%;
+  padding: 2px 3px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  padding: 10px;
+  height: 44px;
+}

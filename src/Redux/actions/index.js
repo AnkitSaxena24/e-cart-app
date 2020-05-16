@@ -1,0 +1,3 @@
+export {
+  fetchAPIData
+} from './getData';

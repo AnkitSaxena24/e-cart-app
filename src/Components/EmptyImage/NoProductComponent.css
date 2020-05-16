@@ -1,0 +1,10 @@
+.image-dummy {
+  display: block;
+  width: 300px;
+  height: 200px;
+  background-color: #eee;
+}
+
+.image-box {
+  height: 250px;
+}

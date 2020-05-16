@@ -9,3 +9,7 @@ This will install the required dependencies to run the project.
 
 ### 3. npm start
 This will run the project in your localhost:3000
+
+## App is hosted at below-mentioned URL
+### To see the demo, follow the link:
+https://ecart-react-app.herokuapp.com/
